@@ -1,4 +1,4 @@
-# ControleCaldeira
+# Controle Caldeira
 Repositório com os códigos utilizados no trabalho final da disciplina de Software em Tempo Real, 2023.1
 
 A aplicação em java é o simulador de caldeira, que nos foi fornecido no trabalho.
